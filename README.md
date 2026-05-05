@@ -1,7 +1,7 @@
 # portfolio-showcase
 <div align="center">
 
-# 👨‍💻 Priyanshu Singh Purawatr
+# 👨‍💻 Priyansh Singh Purawat
 
 ### Full Stack Developer | DevOps Enthusiast | 1-Year Software Engineer Journey
 
