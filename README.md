@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm a passionate **Full Stack Developer** currently on an exciting 1-year journey in software engineering. I specialize in building **scalable web applications**, containerizing applications with **Docker**, orchestrating with **Kubernetes**, and automating deployments with **CI/CD pipelines**.
+Hey there! I'm a passionate **Full Stack Developer** currently on an exciting  . I specialize in building **scalable web applications**, containerizing applications with **Docker**, orchestrating with **Kubernetes**, and automating deployments with **CI/CD pipelines**.
 
 ### 💡 My Journey
 
