@@ -3,7 +3,7 @@
 
 # 👨‍💻 Priyansh Singh Purawat
 
-### Full Stack Developer | DevOps Enthusiast | 1-Year Software Engineer Journey
+### Full Stack Developer |  | 1-Year Software Engineer Journey
 
 [![GitHub followers](https://img.shields.io/github/followers/priyanshsinghpurawatr?style=social)](https://github.com/priyanshsinghpurawatr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/priyanshsinghpurawatr)
