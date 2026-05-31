@@ -1,11 +1,10 @@
-# portfolio-showcase
+# portfolio-showcase(jpg and project gallery)
 <div align="center">
 
 # 👨‍💻 Priyansh Singh Purawat
 
 ### Full Stack Developer |  | 1-Year Software Engineer Journey
 
-[![GitHub followers](https://img.shields.io/github/followers/priyanshsinghpurawatr?style=social)](https://github.com/priyanshsinghpurawatr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/priyanshsinghpurawatr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat)](https://github.com/priyanshsinghpurawatr)
 
@@ -49,7 +48,6 @@ Hey there! I'm a passionate **Full Stack Developer** currently on an exciting  .
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -78,14 +76,6 @@ Hey there! I'm a passionate **Full Stack Developer** currently on an exciting  .
 A complete full-stack e-commerce platform with React frontend, Node.js backend, MongoDB database, JWT authentication, and Stripe payment integration.
 
 **Tech:** React • Node.js • MongoDB • Stripe • Docker • Tailwind CSS
-
----
-
-### 🔧 [DevOps Toolkit](https://github.com/priyanshsinghpurawatr/devops-toolkit)
-Production-ready DevOps templates including Docker configs, Kubernetes manifests, Terraform IaC, CI/CD pipelines, and monitoring setups.
-
-**Tech:** Docker • Kubernetes • Terraform • GitHub Actions • Prometheus
-
 ---
 
 ### 📱 [More Projects Coming Soon...]
@@ -128,17 +118,6 @@ I'm continuously building and sharing projects to demonstrate real-world experti
 
 ---
 
-## 💬 Let's Connect!
-
-I'm always excited to collaborate, learn, and help others grow in tech!
-
-- **GitHub:** [@priyanshsinghpurawatr](https://github.com/priyanshsinghpurawatr)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [@yourhandle]
-
----
-
 ## 🤝 Open to
 
 - 💼 Full-time/Freelance opportunities
@@ -147,11 +126,3 @@ I'm always excited to collaborate, learn, and help others grow in tech!
 - 🔗 Connecting with the developer community
 
 ---
-
-<div align="center">
-
-### ⭐ If you find my work interesting, please consider giving a star! ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshsinghpurawatr&color=blue)
-
-</div>
